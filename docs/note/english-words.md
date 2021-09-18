@@ -354,3 +354,45 @@ title: 英语词汇笔记
   vt. 劝诱
 
   I can't think what induced her to marry him.
+
+## Unit 7 monotonous
+
+a. 单调乏味的
+
+She thought life in the small town was monotonous.
+
+- monopoly
+
+  n. 垄断、垄断公司
+
+  tobacco is a government monopoly
+
+- bicycle
+
+  - recycle
+
+    - renovate
+
+      vt. 修复、翻新
+
+      The hotel has been renovated and redecorated.
+
+      - novelty
+
+        n. 新奇事物、新鲜感
+
+        the novelty soon wore off.
+
+      - novel
+
+        - skim
+
+          v. 略读
+
+          skim the book
+
+          - anecdote
+
+            n. 奇闻轶事、传闻
+
+            He introduced his speech with an anecdote.
