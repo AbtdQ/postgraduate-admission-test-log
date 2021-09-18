@@ -1,12 +1,7 @@
 ---
 home: true
-actions:
-  -
-    text: 进度追踪
-    link: /考研复习追踪.md
-    type: primary
-  - 
-    text: 笔记
-    link: /note
-    type: secondary
+heroText: 考研小记
+tagline: 进度追踪 & 笔记
+actionText: 进度追踪 →
+actionLink: /考研复习追踪
 ---
