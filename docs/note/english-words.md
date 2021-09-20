@@ -396,3 +396,81 @@ She thought life in the small town was monotonous.
             n. 奇闻轶事、传闻
 
             He introduced his speech with an anecdote.
+
+## Unit 8 over
+
+- repertoire
+
+  n. 节目、保留剧目
+
+- overhear
+
+  v. 无意中听到、偷听
+
+  He overheard two doctors discussing my case.
+
+- overlap
+
+  n. 重叠
+
+  A fish's scales overlap each other.
+
+- moreover
+
+  ad. 此外、而且
+
+  Moreover, China's power is growing.
+
+- overbid
+
+  v. 出价过高 n. 过高的出价
+
+  overbid at public auctions.
+
+- overturn
+
+  v. 颠覆
+
+  overturn the government
+
+- under
+
+  - underlie
+
+    vt. 成为……的基础
+
+    Technology improvements underlie these trends.
+
+    - underlying
+
+      a. 潜在的、表面下的
+
+      underlying meaning
+
+  - degenerate
+
+    vt. 退化、恶化、堕落
+
+    the bones may begin to degenerate
+
+    - deprive
+
+      vt. 夺取、剥夺
+
+      deprive them of the right of vote
+
+    - derive
+
+      v. 得到、来自
+
+      The two attitudes derive from different historical perspectives.
+
+  - insecticide
+
+    n. 杀虫剂
+
+  - homicide
+
+    n. （美）谋杀罪
+
+    involved in a homicide
