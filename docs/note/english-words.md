@@ -474,3 +474,29 @@ She thought life in the small town was monotonous.
     n. （美）谋杀罪
 
     involved in a homicide
+
+## Unit 9 scientist
+
+- counteract
+
+  vt. 抵消
+
+  counteract the effects of stress and tension
+
+- counterbalance
+
+  vt. 使平衡、抵消
+
+  counterbalance the intellectual and emotional demands
+
+- conformist
+
+  n. 墨守成规的人 a. 墨守成规的
+
+  He reacted against the conformist views of his parents.
+
+- compensate
+
+  v. 补偿
+
+  Nothing can compensate for the loss of a loved one.
