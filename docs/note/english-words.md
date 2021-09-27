@@ -500,3 +500,58 @@ She thought life in the small town was monotonous.
   v. 补偿
 
   Nothing can compensate for the loss of a loved one.
+
+## Unit 10 emotion
+
+- resent
+
+  vt. 怨恨、厌恶
+
+  I resent being dependent on her.
+  
+  - resentment
+
+  - spite
+
+    n. 怨恨
+
+    - in spite of 尽管
+
+- manipulate
+
+  vt. 操纵、应付处理
+
+  The pilot must manipulate various controls.
+
+- fluid
+  - fluctuate
+
+    vi. 价格或数量波动
+
+    Fruit prices fluctuate with the seasons.
+
+    - fluctuations
+
+- stable
+
+  n. 马厩
+
+- bewilder
+
+  vt. 使迷惑、难住
+
+  So many questions bewilder me.
+
+- intuition
+
+  n. 直觉
+
+  He had an intuition that there was trouble brewing.
+
+- conceive
+
+  v. 设想构思、怀胎
+
+  conceive of
+
+  Who first conceived the idea of building nuclear power plants?
