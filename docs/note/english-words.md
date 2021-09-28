@@ -555,3 +555,41 @@ She thought life in the small town was monotonous.
   conceive of
 
   Who first conceived the idea of building nuclear power plants?
+
+## Unit 11 unfortunately
+
+- unparalleled
+
+  a. 无与伦比的、空前的
+
+  The scenery of this country is unparalleled.
+
+- incompetently
+
+  ad. 无能力的、不能胜任的
+
+  Companies that are incompetently managed are bound to go bankrupt eventually.
+
+  - competent
+
+    a. 能胜任的
+
+    be compentent in
+
+- indignant
+
+  a. 愤慨的、愤怒的
+
+  She was very indignant at the way she had been treated.
+
+- punctual
+
+  a. 准时的
+
+  Be punctual for appointments and let your friend know if you will be late or can not make it at all.
+
+- deficient
+
+  a. 不足、缺乏的
+
+  He is deficient in vitamin C.
