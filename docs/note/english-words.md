@@ -593,3 +593,33 @@ She thought life in the small town was monotonous.
   a. 不足、缺乏的
 
   He is deficient in vitamin C.
+
+## Unit 12 verse
+
+- versatile
+
+  a. 多才多艺的、多面手的
+
+  He is a versatile gymnast with perfect skills.
+
+- textile
+
+  n. 纺织品
+
+  textile group 纺织品集团
+
+  - weave
+
+    v. 编织、编造（故事）
+
+    I think you can weave a story around this incident.
+
+- prose
+
+  n. 散文
+
+  poetry and prose
+
+- autobiography
+
+  n. 自传
