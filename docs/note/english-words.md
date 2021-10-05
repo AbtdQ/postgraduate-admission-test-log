@@ -623,3 +623,37 @@ She thought life in the small town was monotonous.
 - autobiography
 
   n. 自传
+
+## Unit 13 evoke
+
+- evoke
+
+  vt. 引起、唤起
+
+  Song can evoke old memories.
+
+  - provoke
+
+    vt. 激起
+
+    provoke criticism
+
+- handle
+
+  - tackle
+
+    n. 滑车 vt. 处理、解决
+
+    We should tackle the problem another way.
+
+- renounce
+
+  vt. 宣布（放弃）
+
+  He renounced his claim to the French throne.
+
+- allege
+
+  vt. (未提出证据而）宣称
+
+  Police alleged that he was murdered.
