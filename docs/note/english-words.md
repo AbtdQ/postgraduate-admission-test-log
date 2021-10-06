@@ -657,3 +657,57 @@ She thought life in the small town was monotonous.
   vt. (未提出证据而）宣称
 
   Police alleged that he was murdered.
+
+## Unit 14 insert
+
+- bid
+
+  n. v. 出价、努力争取
+
+  He is making a bid to regain his World No.1 ranking.
+
+- stack
+
+  n. 利害关系、股本、堵住
+
+- indulge
+
+  v. 迁就、沉浸
+
+  Everyone should indulge in fantasy on occasion.
+
+- nuisance
+
+  n. 讨厌的人、麻烦事
+
+  Do not make yourself a nuisance to others.
+
+- spur
+
+  n. 马刺 n. v. 刺激
+
+  on the spur of the moment 一时冲动
+
+  International competition is a spur to modernization.
+
+- scrutiny
+
+  n. 详细查看
+
+  Their arguments do not withstand the most superficial scrutiny.
+
+- instinct
+
+  n. 本能、直觉、天性
+
+  by instinct
+
+- innate
+
+  a. 天生的（品质、感情等）
+
+  Correct ideas are not innate in the mind.
+
+  - inborn
+
+    It is clear that the ability to smile is inborn.
